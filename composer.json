@@ -1,7 +1,7 @@
 {
     "name": "psiciliano/laravel-12-infyomlabs-generator",
     "type": "library",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "InfyOm Laravel Generator",
     "keywords": [
         "laravel",
